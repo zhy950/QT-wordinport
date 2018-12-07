@@ -1,0 +1,9 @@
+#ifndef GLOBALFUNTION_H
+#define GLOBALFUNTION_H
+
+class globalfunction
+{
+    
+};
+
+#endif // GLOBALFUNTION_H
